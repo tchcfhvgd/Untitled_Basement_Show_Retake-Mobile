@@ -1,0 +1,13 @@
+{
+	"directory": "game/stages/alley",
+	"defaultZoom": 1,
+
+	"boyfriend": [920, 100],
+	"girlfriend": [400, 0],
+	"opponent": [250, 0],
+	"comboOffsets": [-200,150],
+	"hide_girlfriend": true,
+
+	"camera_girlfriend": [325, 300],
+	"camera_speed": 1.25
+}

@@ -1,0 +1,21 @@
+{
+	"songs": [
+		["Shattered", "blue-tom2", [25, 33, 65], "blue tom"]
+	],
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "train",
+
+	"desc":"\"Poor Tom. he lost the one who'll finally make him happy, due to his poor statues, he couldn't impress his beloved one even if it takes him to sign away his life, but he lost her, making his life more miserable than it was, the only choice left for him is to end his life & end his life's suffering by getting hitten by a train...\n\n\nBut Maybe being able to save him is a good option.\"",
+    "oppName":"Tom",
+	"storyName": "Love is Hopeless",
+	"weekBefore": "Tutorial",
+	"weekName": "week2",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

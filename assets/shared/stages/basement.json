@@ -1,0 +1,11 @@
+{
+	"directory": "stages/basement",
+	"defaultZoom": 0.75,
+	"stageUI": "",
+
+	"boyfriend": [360, 40],
+	"girlfriend": [0, 10],
+	"opponent": [50, 40],
+
+	"comboOffsets": [-100,200]
+}

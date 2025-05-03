@@ -258,12 +258,12 @@ function createReasons() {
         }
     });
 }
-
 function onStepHit() {
     switch(curStep)
     {
     case 97:
-    createSub("来追我呀，小猫咪\n(Come After Me, Pussycat)", 1);  
+    createSub("来追我呀，小猫咪\n(Come After Me, Pussycat)", 1);
+    case 123: game.sendWindowsNotification('Meme Mouse', 'Come After Me, Pussycat >:3', true);
     case 127:
     FlxTween.tween(game.camHUD, {alpha: 1}, 0.25);
     createSub("来追我呀，小猫咪\n(Come After Me, Pussycat)", 0);

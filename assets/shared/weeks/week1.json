@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["House-for-Sale", "mouse-p1", [170, 95, 25], "jerry"],
+		["Sirokou", "mouse-p3", [183, 41, 48], "jerry 3"]
+	],
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "basement",
+
+	"desc":"\"You & You're Girlfriend went to buy a house from a mouse called 'jerry', and the offered house seemed to be pretty good for your living, so it was decided to be bought, until you've fallen downstairs to get into a basement, you've found the dead body of an old friend of jerry called 'tom', and the secrets of the mouse has been uncovered, but he wouldn't let you escape.\n\n\nBut surely you'll do.\"",
+    "oppName":"Jerry",
+	"storyName": "Secret of Nobody",
+	"weekBefore": "Tutorial",
+	"weekName": "week1",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

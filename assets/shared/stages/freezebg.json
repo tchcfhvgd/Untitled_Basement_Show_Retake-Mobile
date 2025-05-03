@@ -1,0 +1,10 @@
+{
+	"directory": "game/stages/snow",
+	"defaultZoom": 0.85,
+	"isPixelStage": false,
+	"hide_girlfriend":true,
+
+	"boyfriend": [710, 55],
+	"girlfriend": [500, 500],
+	"opponent": [-250, 80]
+}

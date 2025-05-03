@@ -1,0 +1,25 @@
+{
+	"songs": [
+		["Meme Mania", "meme-boi", [211, 137, 0], "meme mouse"],
+		["Desire-or-Despair", "starved-butch", [116, 116, 116], "butch"],
+		["Frozen-Bell", "freeze-jerry", [109, 136, 200], "frozen balls (how to give maxplay some pain without wanting to)"]
+	],
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "extras",
+
+	"desc":"\"the secrets from the basement may have been fully discovered, but yet the there's still alot to discover...\"",
+	"oppName":"???",
+
+	"storyName": "The Secret Possibilities",
+	"weekBefore": "week1",
+	"weekName": "extras",
+	"menuType":"freeplay",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}
