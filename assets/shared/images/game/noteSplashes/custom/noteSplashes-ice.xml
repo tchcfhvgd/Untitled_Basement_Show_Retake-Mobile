@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="noteSplashes-ice.png">
+    <!-- splash from bfdi 26 mod -->
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ice splash 0000" x="0" y="0" width="136" height="132" frameX="-61" frameY="-71" frameWidth="247" frameHeight="230"/>
+	<SubTexture name="ice splash 0001" x="136" y="0" width="137" height="141" frameX="-64" frameY="-59" frameWidth="247" frameHeight="230"/>
+	<SubTexture name="ice splash 0002" x="0" y="141" width="177" height="203" frameX="-41" frameY="-15" frameWidth="247" frameHeight="230"/>
+	<SubTexture name="ice splash 0003" x="177" y="141" width="224" height="230" frameX="-23" frameY="0" frameWidth="247" frameHeight="230"/>
+	<SubTexture name="ice splash 0004" x="0" y="371" width="237" height="220" frameX="0" frameY="-2" frameWidth="247" frameHeight="230"/>
+	<SubTexture name="ice splash 0005" x="0" y="591" width="230" height="214" frameX="-1" frameY="-3" frameWidth="247" frameHeight="230"/>
+	<SubTexture name="ice splash 0006" x="230" y="591" width="209" height="199" frameX="-11" frameY="-2" frameWidth="247" frameHeight="230"/>
+</TextureAtlas>
